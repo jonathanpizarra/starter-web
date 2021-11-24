@@ -17,3 +17,7 @@ This is my fork of starter web repo from scm-ninja as part of ATLP Git course in
 ## ANOTHER EDIT
 
 edited
+
+## COPYRIGHT
+
+Copyright notice 2021
