@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## Merge sample edit
+
+Editing this file as sample for merging
+
 ## My Fork
 
 This is my fork of starter web repo from scm-ninja as part of ATLP Git course in Udemy.
