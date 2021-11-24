@@ -18,6 +18,10 @@ This is my fork of starter web repo from scm-ninja as part of ATLP Git course in
 
 edited
 
+## how to contribute
+
+Please fork this
+
 ## COPYRIGHT
 
 ATLP Udemy
