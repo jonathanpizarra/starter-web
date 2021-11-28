@@ -26,4 +26,4 @@ Please fork this
 ## COPYRIGHT
 
 ATLP Udemy
-Copyright notice 2021
+Copyright notice 2021 . all rights reserved
